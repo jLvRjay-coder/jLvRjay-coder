@@ -1,54 +1,61 @@
 # Jamie Dennis
-Creator of the Beyond the Message digital platform  
-Angel Chat mobile app now live on Google Play  
-Building AI-powered faith engagement tools
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jLvRjay-coder&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jLvRjay-coder&layout=compact)
 
 Operations Executive | AI Platform Builder | Digital Product Development
 
-Builder of digital platforms that combine **technology, leadership, and real-world impact**.
+Builder of digital platforms that combine technology, leadership, and real-world impact.
 
 ---
 
-## Featured Projects
+## Featured Platforms
 
-### Angel Chat (Prayer Angel) — Mobile App
-Faith-based reflection app helping users connect with scripture, prayer, and guided reflection.
+### Angel Chat (Prayer Angel)
+Faith-based reflection app designed to help users connect with scripture, prayer, and guided reflection.
 
-📱 Google Play Store  
+Google Play  
 https://play.google.com/store/apps/details?id=org.beyondthemessage.angel
 
-💻 Source Code  
+Source Code  
 https://github.com/jLvRjay-coder/Prayer-Angel-App
 
+---
 
 ### Beyond the Message
-A faith-based digital ecosystem designed to help people engage deeper with Scripture through interactive study tools, storytelling, and AI-powered reflection.
+Faith-based digital ecosystem focused on scripture engagement, storytelling, and interactive study tools.
 
-🔗 https://github.com/jLvRjay-coder/Beyond-The-Message
+Repository  
+https://github.com/jLvRjay-coder/Beyond-The-Message
+
+---
+
+## Platform Highlights
+
+• Built and deployed a mobile application on Google Play  
+• Developed AI-assisted reflection tools  
+• Created interactive scripture engagement tools  
+• Built Streamlit-based web applications  
+• Integrated Hugging Face AI services
 
 ---
 
 ## Technology Stack
 
-- Python
-- Streamlit
-- AI Integrations
-- Hugging Face
-- Web Application Development
+Python  
+Streamlit  
+AI Integration  
+Hugging Face  
+Web Application Development
 
 ---
 
-## Mission
+## GitHub Activity
 
-Building platforms that bring together **technology, leadership, and faith** to create meaningful impact.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jLvRjay-coder&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jLvRjay-coder&layout=compact)
 
 ---
 
-## Connect
+## Portfolio
 
-GitHub:  
+GitHub  
 https://github.com/jLvRjay-coder
