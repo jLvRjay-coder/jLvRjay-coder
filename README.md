@@ -1,24 +1,42 @@
 # Jamie Dennis
 
-Operations Leader | AI & Automation Builder | Digital Product Development
+Operations Executive | AI Platform Builder | Digital Product Development
 
-I build tools and platforms that combine technology, leadership, and real-world impact.
+Builder of digital platforms that combine **technology, leadership, and real-world impact**.
 
-## Current Projects
+---
+
+## Featured Projects
 
 ### Beyond the Message
-Faith-based digital platform designed to help people engage deeper with Scripture through interactive tools and study resources.
+A faith-based digital ecosystem designed to help people engage deeper with Scripture through interactive study tools, storytelling, and AI-powered reflection.
+
+🔗 https://github.com/jLvRjay-coder/Beyond-The-Message
 
 ### Prayer Angel App
-A reflection and prayer companion designed to help people connect with God through guided reflection and scripture-based insights.
+A reflection and prayer companion designed to help users connect with God through guided reflection, scripture, and AI-assisted insights.
 
-## Technologies
+🔗 https://github.com/jLvRjay-coder/Prayer-Angel-App
+
+---
+
+## Technology Stack
+
 - Python
 - Streamlit
-- AI Integration
+- AI Integrations
 - Hugging Face
 - Web Application Development
 
-## Featured Projects
-- https://github.com/jLvRjay-coder/Beyond-The-Message
-- https://github.com/jLvRjay-coder/Prayer-Angel-App
+---
+
+## Mission
+
+Building platforms that bring together **technology, leadership, and faith** to create meaningful impact.
+
+---
+
+## Connect
+
+GitHub:  
+https://github.com/jLvRjay-coder
