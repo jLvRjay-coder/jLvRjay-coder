@@ -1,4 +1,8 @@
 # Jamie Dennis
+Creator of the Beyond the Message digital platform  
+Angel Chat mobile app now live on Google Play  
+Building AI-powered faith engagement tools
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jLvRjay-coder&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jLvRjay-coder&layout=compact)
