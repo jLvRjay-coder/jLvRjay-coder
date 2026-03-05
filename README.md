@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jamie Dennis
 
-<!--
-**jLvRjay-coder/jLvRjay-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations Leader | AI & Automation Builder | Digital Product Development
 
-Here are some ideas to get you started:
+I build tools and platforms that combine technology, leadership, and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+### Beyond the Message
+Faith-based digital platform designed to help people engage deeper with Scripture through interactive tools and study resources.
+
+### Prayer Angel App
+A reflection and prayer companion designed to help people connect with God through guided reflection and scripture-based insights.
+
+## Technologies
+- Python
+- Streamlit
+- AI Integration
+- Hugging Face
+- Web Application Development
+
+## Featured Projects
+- https://github.com/jLvRjay-coder/Beyond-The-Message
+- https://github.com/jLvRjay-coder/Prayer-Angel-App
